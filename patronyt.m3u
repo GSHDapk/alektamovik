@@ -1,10 +1,3 @@
-#EXTM3U
-# PatronYT M3U Playlist - Generated: 2026-05-06 02:41:04
-# YouTube Channels: 86 | External: 119 | Total: 205
-
-#EXTINF:-1 tvg-id="patr0nListe" tvg-name="patr0n - kablo yüzünden bazı yayınlar deaktif" group-title="patr0n",patr0n - kablo yüzünden bazı yayınlar deaktif
-https://patr0npatr0npatr0n.patr0n
-
 #EXTINF:-1 tvg-id="testsinematv" tvg-name="sinematv - test" group-title="patr0n",sinematv - test
 http://87.121.104.29:8001/?id=246195&token=9c5eea88a0a0551bf47da25eb97b9234
 
