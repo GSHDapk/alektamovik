@@ -1,1 +1,34 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://a.prectv67.lol/uploads/cache/channel_thumb/uploads/jpg/14f516e981f4bc0961c5a162665814bf.jpg" group-title="TRT",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT Spor" tvg-logo="https://assets.uzunmuhalefet.com/logos/bbe065e2-ff43-4c9c-aec8-1734bd397daf.png" group-title="TRT",TRT Spor
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43023.jpeg" group-title="Tabii Spor",Tabii Spor
+https://zeus324232.cfd/tabiispor/index.txt
+
+#EXTINF:-1 tvg-name="Tabii Spor 1" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43005.jpeg" group-title="Tabii Spor",Tabii Spor 1
+https://pz4qt7nw1mr9sh2vl5xk8jg3y.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 2" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43008.jpeg" group-title="Tabii Spor",Tabii Spor 2
+https://mR8bV4kL1nQ7sH9tW2xP5zJ6g.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 3" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43011.jpeg" group-title="Tabii Spor",Tabii Spor 3
+https://mR4vL7nQ2sH9tW5xP1zK3gJ8b.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 4" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43014.jpeg" group-title="Tabii Spor",Tabii Spor 4
+https://sH7tQ2nW5mR1vL9xP4zK3gJ8k.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 5" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43017.jpeg" group-title="Tabii Spor",Tabii Spor 5
+https://vL2nQ8sH4tW1mR7xP5zK9gJ3y.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 6" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43020.jpeg" group-title="Tabii Spor",Tabii Spor 6
+https://nW5mR1vL9xP4zK2sH7tQ3gJ6b.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 7" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/51612_0-0-1919-1080.jpeg" group-title="Tabii Spor",Tabii Spor 7
+https://Pz2rT7nW1mR9sH4vL6xK3gJ5b.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 8" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/60594_0-73-1920-933.jpeg" group-title="Tabii Spor",Tabii Spor 8
+https://vL9nQ2sH5tW1mR7xP4zK8gJ3k.medya.trt.com.tr/master.m3u8
