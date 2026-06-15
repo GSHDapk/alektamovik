@@ -1,4 +1,34 @@
 #EXTM3U
+EXTINF:-1,OTVValentino HD
+https://de1.dstv.cx/OTVValentino/index.m3u8
+#EXTINF:-1,Private HD
+https://de1.dstv.cx/Private/index.m3u8
+#EXTINF:-1,Hustler HD
+https://de1.dstv.cx/Hustler/index.m3u8
+#EXTINF:-1,Dorcel HD
+https://de1.dstv.cx/DorcelHD/index.m3u8
+#EXTINF:-1,FrenchLover HD
+https://de1.dstv.cx/FrenchLover/index.m3u8
+#EXTINF:-1,Babes TV
+https://de1.dstv.cx/BabesTV/index.m3u8
+#EXTINF:-1,Reality Kings
+https://de1.dstv.cx/RealityKings/index.m3u8
+#EXTINF:-1,BangU
+https://de1.dstv.cx/BangU/index.m3u8
+#EXTINF:-1,Playboy TV HD
+https://de1.dstv.cx/PlayboyHD/index.m3u8
+#EXTINF:-1,Pink Erotic 1
+https://de1.dstv.cx/PinkErotic1/index.m3u8
+#EXTINF:-1,Pink Erotic 2
+https://de1.dstv.cx/PinkErotic2/index.m3u8
+#EXTINF:-1,Pink Erotic 3
+https://de1.dstv.cx/PinkErotic3/index.m3u8
+#EXTINF:-1,Pink Erotic 4
+https://de1.dstv.cx/PinkErotic4/index.m3u8
+#EXTINF:-1,Pink Erotic 5
+https://de1.dstv.cx/PinkErotic5/index.m3u8
+#EXTINF:-1,Pink Erotic 6
+https://de1.dstv.cx/PinkErotic6/index.m3u8
 #EXTINF:-1 tvg-id="RK TV.us" tvg-name="RK " tvg-logo="http://46.36.40.22/1023/realitykings.png" group-title="Erotické",RK TV
 http://212.102.38.45/live/test_realitykings_sd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="LeoTV.cz" tvg-name="Leo TV" tvg-logo="http://46.36.40.22/1023/leotv.png" group-title="Erotické",Leo TV
