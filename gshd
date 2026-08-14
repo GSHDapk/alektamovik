@@ -32,3 +32,6 @@ https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/5934938605e361d7e0ff0
 
 #EXTINF:-1 tvg-id="193" tvg-name="YAYIN 12" tvg-logo="https://resmim.net/cdn/2026/05/27/C7URf1.png" group-title="Spor",BEIN SPORTS 1 HD .b
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/66217962033a2d3e9c47f
+
+#EXTINF:-1 tvg-id="BeinSports1" tvg-name="YAYIN 13" tvg-logo="https://resmim.net/cdn/2026/05/27/C7URf1.png" group-title="Spor",Bein Sports 1 HD
+https://chunk.tvdaily.xyz/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2MiIsInRzIjoxNzg2NjkxMDE2MzE0fQ==
