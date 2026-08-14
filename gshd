@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="yayın1" tvg-name="YAYIN 1" tvg-logo="https://resmim.net/cdn/2026/05/27/C7URf1.png" group-title="Spor",Bein Sports 1 HD
 https://95.179.168.179/bein1/index.m3u8
 
+#EXTINF:-1 tvg-id="BeinSports1" tvg-name="YAYIN 2" tvg-logo="https://resmim.net/cdn/2026/05/27/C7URf1.png" group-title="Spor",Bein Sports 1 HD
+https://corestream.siteyaptim.live//bein1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="193" tvg-name="YAYIN 3" tvg-logo="https://resmim.net/cdn/2026/05/27/C7URf1.png" group-title="Spor",BEIN SPORTS 1 (720P) .b
 https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/38404756531618c87fcc66
 
@@ -35,3 +38,6 @@ https://vavoo-iptv-proxy.vavoo-iptv.workers.dev/play/66217962033a2d3e9c47f
 
 #EXTINF:-1 tvg-id="BeinSports1" tvg-name="YAYIN 13" tvg-logo="https://resmim.net/cdn/2026/05/27/C7URf1.png" group-title="Spor",Bein Sports 1 HD
 https://chunk.tvdaily.xyz/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2MiIsInRzIjoxNzg2NjkxMDE2MzE0fQ==
+
+#EXTINF:-1 tvg-id="BeinSports1" tvg-name="YAYIN 14" tvg-logo="https://resmim.net/cdn/2026/05/27/C7URf1.png" group-title="Spor",Bein Sports 1 HD
+https://corestream.siteyaptim.live//beintv/tracks-v1a1/mono.m3u8
