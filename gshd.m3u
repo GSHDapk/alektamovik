@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="yayın1" tvg-name="YAYIN 1" tvg-logo="https://resmim.net/cdn/2026/05/27/C7URf1.png" group-title="Spor",YAYIN 1 HD
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6817/index.m3u
 
-EXTINF:-1 tvg-id="yayın1" tvg-name="YAYIN 1" tvg-logo="https://resmim.net/cdn/2026/05/27/C7URf1.png" group-title="Spor",YAYIN 2 HD
+EXTINF:-1 tvg-id="yayın0" tvg-name="YAYIN 0" tvg-logo="https://resmim.net/cdn/2026/05/27/C7URf1.png" group-title="Spor",YAYIN 2 HD
 https://pasadasin71.cfd/b1/mono.m3u8
 
 #EXTINF:-1 tvg-id="BeinSports1" tvg-name="YAYIN 3" tvg-logo="https://resmim.net/cdn/2026/05/27/C7URf1.png" group-title="Spor",YAYIN 3 HD
