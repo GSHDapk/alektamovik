@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://a.prectv67.lol/uploads/cache/channel_thumb/uploads/jpg/14f516e981f4bc0961c5a162665814bf.jpg" group-title="TRT",TRT 1
+#EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://tr.wikipedia.org/wiki/Dosya:TRT_1_logo_%282012-2021%29.png#/media/Dosya:TRT_1_logo_(2012-2021).png" group-title="TRT",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="TRT Spor" tvg-logo="https://assets.uzunmuhalefet.com/logos/bbe065e2-ff43-4c9c-aec8-1734bd397daf.png" group-title="TRT",TRT Spor
