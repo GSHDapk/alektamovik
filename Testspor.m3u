@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://tr.wikipedia.org/wiki/Dosya:TRT_1_logo_%282012-2021%29.png#/media/Dosya:TRT_1_logo_(2012-2021).png" group-title="TRT",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT Spor" tvg-logo="https://assets.uzunmuhalefet.com/logos/bbe065e2-ff43-4c9c-aec8-1734bd397daf.png" group-title="TRT",TRT Spor
+#EXTINF:-1 tvg-name="TRT Spor" tvg-logo="https://tr.wikipedia.org/wiki/Dosya:TRT_Spor_logo_%282022%29.svg#/media/Dosya:TRT_Spor_logo_(2022).svg" group-title="TRT",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="Tabii Spor" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43023.jpeg" group-title="Tabii Spor",Tabii Spor
