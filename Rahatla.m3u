@@ -1,0 +1,52 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="GSHD RELAX",🌿 ZenLIFE by Stingray
+https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="GSHD RELAX",🧘 Chill TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/chill-tv/playlist/0.m3u8
+
+#EXTINF:-1 group-title="GSHD RELAX",📺 PROSTO ch318
+http://iptv.prosto.tv:7000/ch318/video.m3u8
+
+#EXTINF:-1 group-title="GSHD RELAX",📺 PROSTO ch317
+http://iptv.prosto.tv:7000/ch317/video.m3u8
+
+#EXTINF:-1 group-title="GSHD RELAX",🧘 MyZen TV
+https://amg01255-secomcofites-my-myzen-en-plex-dj4yp.amagi.tv/playlist/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+
+#EXTINF:-1 group-title="GSHD RELAX",📺 PROSTO ch328
+http://iptv.prosto.tv:7000/ch328/video.m3u8
+
+#EXTINF:-1 group-title="GSHD RELAX",📺 PROSTO ch329
+http://iptv.prosto.tv:7000/ch329/video.m3u8
+
+#EXTINF:-1 group-title="GSHD RELAX",📺 PROSTO ch330
+http://iptv.prosto.tv:7000/ch330/video.m3u8
+
+#EXTINF:-1 group-title="GSHD RELAX",📺 PROSTO ch331
+http://iptv.prosto.tv:7000/ch331/video.m3u8
+
+#EXTINF:-1 group-title="GSHD RELAX",📺 PROSTO ch332
+http://iptv.prosto.tv:7000/ch332/video.m3u8
+
+#EXTINF:-1 group-title="GSHD RELAX",🚁 AirVūz Drone TV BR
+https://airvuz-dronetv-1-br.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="GSHD RELAX",🚁 AirVūz Drone TV FR
+https://airvuz-dronetv-1-fr.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="GSHD RELAX",🚁 AirVūz Drone TV EU
+https://airvuz-dronetv-1-eu.xiaomi.wurl.tv:443/4300.m3u8
+
+#EXTINF:-1 group-title="GSHD RELAX",🚁 AirVūz Drone TV MX
+https://airvuz-dronetv-1-mx.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="GSHD RELAX",🚁 AirVūz Drone TV US
+https://airvuz-dronetv-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="GSHD RELAX",🚁 AirVūz Drone TV AU
+https://airvuz-dronetv-1-au.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="GSHD RELAX",🚁 AirVūz Drone TV DE
+https://airvuz-dronetv-1-de.tcl.wurl.tv/playlist.m3u8
